@@ -1,5 +1,6 @@
 # Machine_learning
 
-machine learning crash course by google 
+Machine learning crash course by google 
 
-30 th july 2021
+Started on:
+30 th July 2021
